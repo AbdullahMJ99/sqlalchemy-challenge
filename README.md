@@ -31,6 +31,8 @@ Load the query results into a Pandas DataFrame. Explicitly set the column names.
 Sort the DataFrame values by "date".
 
 Plot the results by using the DataFrame plot method, as the following image shows:
+![image](https://github.com/AbdullahMJ99/sqlalchemy-challenge/assets/135548699/da5d2ad6-7d10-43bb-93aa-c9e19e1eb773)
+
 
 A screenshot depicts the plot.
 
