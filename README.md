@@ -34,5 +34,9 @@ Plot the results by using the DataFrame plot method, as the following image show
 ![image](https://github.com/AbdullahMJ99/sqlalchemy-challenge/assets/135548699/da5d2ad6-7d10-43bb-93aa-c9e19e1eb773)
 
 
+![image](https://github.com/AbdullahMJ99/sqlalchemy-challenge/assets/135548699/09ba43f8-e6ef-40fa-927f-74f71878af4c)
+
+
+
 A screenshot depicts the plot.
 
